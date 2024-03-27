@@ -6,8 +6,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Adj meg egy számot");
-            //int szam = int.Parse(Console.ReadLine());
+            Console.WriteLine("Adj meg egy számot");
+            int szam = int.Parse(Console.ReadLine());
             //for (int i = 0; i < szam; i++)
             //{
             //    if (i == szam)
