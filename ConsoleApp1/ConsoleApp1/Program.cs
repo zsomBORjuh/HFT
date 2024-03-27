@@ -8,7 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Adj meg egy számot");
             int szam = int.Parse(Console.ReadLine());
-            //for (int i = 0; i < szam; i++)
+            for (int i = 0; i < szam; i++)
             //{
             //    if (i == szam)
             //    {
@@ -18,7 +18,7 @@ namespace ConsoleApp1
             //    {
             //        Console.WriteLine(i+", ");
             //    }
-            //}
+            }
         }
     }
 }
